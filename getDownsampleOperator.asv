@@ -1,0 +1,19 @@
+function  D = getDownsampleOperator(numRows, numColumns, factor)
+%UNTITLED4 Summary of this function goes here
+%   Detailed explanation goes here
+
+%D = abs(downsample(tensor,factor) / tensor); 
+
+D = zeros(numRows, numColumns);
+
+for i=1:1:numRows
+    for j=1:1:numColumns
+    
+        if()
+        D(i,j) = 
+        brea
+        end
+    end
+
+end
+
